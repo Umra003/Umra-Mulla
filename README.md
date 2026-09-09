@@ -1,7 +1,7 @@
 # Umra-Mulla
-Hey, I'm Umra Mulla 👋
-MCA student at IMCC, Pune 🎓 
-Python &amp; Django Developer 💻 
-Exploring DSA, AI &amp; ML 🤖. 
-I love turning ideas into practical solutions and constantly improving my skills. 
+Hey, I'm Umra Mulla 👋<br>
+MCA student at IMCC, Pune 🎓<br> 
+Python &amp; Django Developer 💻 <br>
+Exploring DSA, AI &amp; ML 🤖.<br> 
+I love turning ideas into practical solutions and constantly improving my skills. <br>
 🚀 Learning → Building → Breaking → Fixing → Growing. 🔁
